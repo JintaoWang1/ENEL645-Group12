@@ -1,4 +1,4 @@
-# ENEL645-Group12
+# ENEL645-Group12 final project
 
 Members:
 

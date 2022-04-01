@@ -8,4 +8,4 @@ Cameron Pepper
 
 Misagh Ishani
 
-Jintao Wang (30144391)
+Jintao Wang
